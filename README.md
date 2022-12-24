@@ -1,2 +1,2 @@
 # git-course
-Learn Git Course. This file modified locally.
+This line was modified manually during conflicts resolution&
