@@ -1,2 +1,2 @@
 # git-course
-Learn Git Course
+Learn Git Course. This file modified locally.
