@@ -1,2 +1,2 @@
 # git-course
-Learn Git Course
+Learn Git Course. One more edit throw GitHub
