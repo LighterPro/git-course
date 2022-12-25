@@ -1,2 +1,2 @@
 # git-course
-Learn Git Course
+This line was replaced in feature-2 branch
